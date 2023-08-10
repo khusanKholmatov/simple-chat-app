@@ -53,6 +53,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>user-chat-app</finalName>
     </build>
 
 </project>
